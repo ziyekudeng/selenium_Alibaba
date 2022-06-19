@@ -5,7 +5,7 @@
 1. 使用谷歌浏览器 + chromedriver
 2. 使用 国内源导包
 
-pip install 包名 -**i https://pypi.tuna.tsinghua.edu.cn/simple/https**:**//pypi**.**tuna**.**tsinghua**.**edu**.**cn**/**simple**/
+pip install 包名 -**i https://pypi.tuna.tsinghua.edu.cn/simple/**
 
 清华源： https://pypi.tuna.tsinghua.edu.cn/simple/
 
